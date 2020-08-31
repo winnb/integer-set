@@ -1,3 +1,8 @@
+/*
+* CECS 475 Lab 2
+* By Brandon Winn and Peter Park
+* 31 Aug 2020
+*/
 public class IntegerSet {
     
     private boolean[] intRange; // Array of bool values to tell whether or not numbers 0-100 are in the set
